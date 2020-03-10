@@ -1,6 +1,9 @@
 # Global Urban Cyclone Impact Simulation
 This simulation is the basis of results in "Global spread of local cyclone damages through urban trade networks" (1). Please refer to this publication for complete description of model and results. 
 
+## Citation
+To cite the model, please refer to references (1) and (2), below. 
+
 ## Model 
 Code simulates losses of industrial output resulting from historical cyclone landfalls. Model represents direct impacts (loss owing to constraints of damaged infrastructure where cyclones make landfall) and secondary impacts (reduced output resulting from economic and material dynamics such as price spikes and supply shortages). Simulation plays out over 5 years following a direct impact, for each of ~1200 storm simulations. 
 
