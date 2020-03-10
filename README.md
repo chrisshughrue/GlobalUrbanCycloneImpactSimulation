@@ -17,5 +17,5 @@ Global urban industrial network (UNICORN) describes industrial exchanges among 1
 
 3. [Wenz, L., & Levermann, A. (2016). Enhanced economic connectivity to foster heat stress–related losses. Science advances, 2(6), e1501026.](https://advances.sciencemag.org/content/2/6/e1501026?intcmp=trendmd-adv)
 
-4. [Hallegatte, S. (2008). An adaptive regional input‐output model and its application to the assessment of the economic cost of Katrina. Risk Analysis: An International Journal, 28(3), 779-799.] (https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1539-6924.2008.01046.x)
+4. [Hallegatte, S. (2008). An adaptive regional input‐output model and its application to the assessment of the economic cost of Katrina. Risk Analysis: An International Journal, 28(3), 779-799.](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1539-6924.2008.01046.x)
 
